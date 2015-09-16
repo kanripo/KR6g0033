@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方等無想經
+#+DATE: 2015-08-30 20:04:53.153271
+#+PROPERTY: JUAN 0
