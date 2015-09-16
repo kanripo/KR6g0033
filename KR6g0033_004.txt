@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:52.832075
+#+DATE: 2015-08-30 20:04:56.209811
 #+TITLE: 大方等無想經
 #+PROPERTY: CBETA_ID T12n0387
 #+PROPERTY: ID KR6g0033
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 387
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0033_T_000-1077c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0033_T_004-1094a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大方等無想經》卷第四¶
+《大方等無想經》卷第四¶
 ¶
 北涼天竺三藏曇無讖譯¶
 
-36如來涅槃健度
-:PROPERTIES:
-:head: 大雲初分如來涅槃健度第三十六
-:END:
-¶
+大雲初分如來涅槃健度第三十六¶
 
 於是，眾中有大梵王，名曰健行，持諸供具，供¶
 養於佛，合掌恭敬，右遶三匝，上昇虛空，高七¶
@@ -440,8 +435,7 @@
 性燈如來、應、正遍知、明行足、善逝、世間解、無¶
 上士、調御丈夫、天人師、佛、世尊。時，閻浮提多¶
 有眾生，無量無邊，不可算數，悉皆成就安隱¶
-快樂，無諸飢渴、苦惱等患。其地廣博，清淨嚴¶
-事，廣縱六萬八千由旬，多有諸城七萬八¶
+快樂，無諸飢渴、苦惱等患。其地廣博，清淨嚴事，廣縱六萬八千由旬，多有諸城七萬八¶
 千，一一大城，七寶所作，其城四壁，有九萬却¶
 敵。¶
 
